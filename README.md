@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### Technical Skills Summary
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangsudal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsudal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsudal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Customize Course Projects
 #### 프로젝트명(2021.6~current)
@@ -33,10 +35,14 @@ Here are some ideas to get you started:
 #### Kkungflix App(2021.4.4~4.22)
    넷플릭스 클론코딩
    
+
+
 ## Flutter Packages
 #### 아직없음
    간단하지만 유용한 패키지 만들어 배포하고싶습니다
    
+
+
 ## Education
 #### 한림대학교 - Hallym University (2012 - 2016, 졸업)
    컴퓨터공학
