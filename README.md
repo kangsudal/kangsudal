@@ -23,26 +23,21 @@ Here are some ideas to get you started:
 
 
 
-### Course Projects
-## Drawing App(2021.5.28~6.4)
+## Course Projects
+### Drawing App(2021.5.28~6.4)
    CustomPaint를 이용해 만든 그림판
    
-## Todo App(2021.4.30~5.20)
+### Todo App(2021.4.30~5.20)
    firebase 사용
    
-## Kkungflix App(2021.4.4~4.22)
+### Kkungflix App(2021.4.4~4.22)
    넷플릭스 클론코딩
    
-### Flutter Packages
-## 아직없음
+## Flutter Packages
+### 아직없음
    간단하지만 유용한 패키지 만들어 배포하고싶습니다
    
-### Education
-## 한림대학교 - Hallym University (2012 - 2016, 졸업)
+## Education
+### 한림대학교 - Hallym University (2012 - 2016, 졸업)
    컴퓨터공학
 
-###### 다섯
-#### 넷
-###셋
-##둘
-#하나
