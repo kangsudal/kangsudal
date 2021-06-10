@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Technical Skills Summary
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsudal)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsudal)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsudal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
