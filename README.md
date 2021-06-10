@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 #### Kkungflix App(2021.4.4~4.22)
    넷플릭스 클론코딩
    
-
+### Quizz App(2021.1.24~1.29)
+   Django DRF + flutter 를 이용한 퀴즈앱
+   Flutter repository(https://github.com/kangsudal/flutter_mobileapp_quiz_test)
+   Django DRF repository(https://github.com/kangsudal/drf_quiz_test)
 
 ## Flutter Packages
 #### 아직없음
