@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsudal)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsudal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects
-### Customize Course Projects
+## Customize Course Projects
 #### 프로젝트명(2021.6~current)
 
 
-
-### Course Projects
+  
+## Course Projects
 #### Drawing App(2021.5.28~6.4)
    CustomPaint를 이용해 만든 그림판
    [repository](https://github.com/kangsudal/custom_paint)
@@ -45,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-
+  
 ## Flutter Packages
 #### 아직없음
    간단하지만 유용한 패키지 만들어 배포하고싶습니다
