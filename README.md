@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 #### 한끼잇고 (2021.7~)
   [repository](https://github.com/kangsudal/whats_for_dinner)
 
+#### 챔피언 지도 (2021.2.5~9.17)
+  [repository](https://github.com/kangsudal/lol-dart)
+
 #### Drawing App (2021.5.28~6.4)
    CustomPaint를 이용해 만든 그림판
    [repository](https://github.com/kangsudal/custom_paint)
@@ -40,16 +43,44 @@ Here are some ideas to get you started:
    [Django DRF repository](https://github.com/kangsudal/drf_quiz_test)  
    
    
-##2020
+## 2020
 #### Codelabs Series study
-    [Adding Google Map](https://github.com/kangsudal/Adding-Google-Maps)
-    [Building Beautiful UIs with Flutter](https://github.com/kangsudal/Building-Beautiful-UIs-with-Flutter)
+   [Adding Google Map](https://github.com/kangsudal/Adding-Google-Maps)
+   [Building Beautiful UIs with Flutter](https://github.com/kangsudal/Building-Beautiful-UIs-with-Flutter)
     
 #### Chat App
-    [repo](https://github.com/kangsudal/chat_app)
+   [repo](https://github.com/kangsudal/chat_app)
     
 #### Todo App
-    [repo](https://github.com/kangsudal/TodoApp)
-    
-    
-##2019
+   [repo](https://github.com/kangsudal/TodoApp)
+
+
+## 2019
+#### Brew Crew
+   [repo](https://github.com/kangsudal/brew-crew)
+   
+#### Book Diary App
+   [repo](https://github.com/kangsudal/mybook-diary)
+   
+#### 롤 챔피언 지도 사이트
+   Django DRF +Heroku + DDragon static data
+   [site](https://limitless-oasis-92034.herokuapp.com/tool2/)
+   [repo](https://github.com/kangsudal/legendary-enigma)
+   
+## 2018
+#### React Native Study - Nomad Coders Course
+   [Todo App](https://github.com/kangsudal/todo)
+   [날씨 App](https://github.com/kangsudal/lovely-weather)
+   
+### React Study - Nomad Coders Course
+   [영화사이트](https://github.com/kangsudal/movie_app)
+   [learnreact](https://github.com/kangsudal/learnreact)
+   
+### Django Girls
+   [first blog](https://github.com/kangsudal/my-first-blog)
+
+
+## 2017
+### Python Study
+   [Try Telegram bot1](https://github.com/kangsudal/chatbot)
+   [Try Telegram bot2](https://github.com/kangsudal/telegramchatbot)   
