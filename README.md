@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## - 🔭 I’m currently working on ...
 #### 한끼잇고 (2021.7~)
+  ![image](https://user-images.githubusercontent.com/32862869/140897855-835f2b96-7867-4884-9c33-e9ab5dd3b829.png)
   [Download](https://play.google.com/store/apps/details?id=com.kangsudal.whateatgo)
   [repository](https://github.com/kangsudal/whats_for_dinner)
 
