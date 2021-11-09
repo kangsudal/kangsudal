@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## - 🔭 I’m currently working on ...
 #### 한끼잇고 (2021.7~)
+  [Download](https://play.google.com/store/apps/details?id=com.kangsudal.whateatgo)
   [repository](https://github.com/kangsudal/whats_for_dinner)
 
 #### 챔피언 지도 (2021.2.5~9.17)
