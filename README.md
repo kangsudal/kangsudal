@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 ## - 🔭 I’m currently working on ...
 #### 한끼잇고 (2021.7~)
-![한끼잇고 플레이스토어에 올린모습](https://user-images.githubusercontent.com/32862869/141077914-5383e3ce-a6fb-4eea-9f08-08ecd6602586.PNG)
   [Download](https://play.google.com/store/apps/details?id=com.kangsudal.whateatgo)
   [repository](https://github.com/kangsudal/whats_for_dinner)
 
 #### 챔피언 지도 (2021.2.5~9.17)
-
-![롤챔피언지도](https://user-images.githubusercontent.com/32862869/141077947-96738227-095f-4dd7-9c4b-f73ee1edcbc9.PNG)
   [repository](https://github.com/kangsudal/lol-dart)
 
 #### Drawing App (2021.5.28~6.4)
