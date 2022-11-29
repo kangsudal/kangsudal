@@ -27,7 +27,7 @@
 ## 🌱Learning
 | Year  | Day |Name | reference |	Repository | Video Link
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-2022|	11/15~29|	캘린더 스케쥴러|	코드팩토리|	[Link](https://github.com/kangsudal/calendar_scheduler)||
+2022|	11/15~11/29|	캘린더 스케쥴러|	코드팩토리|	[Link](https://github.com/kangsudal/calendar_scheduler)||
 2022|	11/14~11/14|	랜덤숫자 생성기|	코드팩토리|	[Link](https://github.com/kangsudal/random_number_generator)|	|
 2022|	10/16~10/19|	쇼핑몰앱|	쉽고 빠른 플러터 앱 개발/권태형|	[Link](https://github.com/kangsudal/flutter_shopping_mall)|	|
 2021|	5/28~6/4|	Drawing App|	TechHover Studio|	[Link](https://github.com/kangsudal/custom_paint)|	|
