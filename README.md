@@ -28,6 +28,7 @@
 ## 🌱Learning
 | Year  | Day |Name | reference |	Repository | Video Link
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023  | 1/27~  | 틱톡 클론코딩  | 노마드 코더  | [Link](https://github.com/kangsudal/tiktok_clone) | |
 | 2023  | 1/25~  | 코드팩토리 중급 강의  | 코드팩토리  | [Link](https://github.com/kangsudal/actual) | |
 |2022|	12/1~12/23|	미세먼지 앱|	코드팩토리|	[Link](https://github.com/kangsudal/dusty)||
 |2022|	11/15~11/29|	캘린더 스케쥴러|	코드팩토리|	[Link](https://github.com/kangsudal/calendar_scheduler)||
