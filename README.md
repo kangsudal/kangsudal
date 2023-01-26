@@ -28,14 +28,15 @@
 ## 🌱Learning
 | Year  | Day |Name | reference |	Repository | Video Link
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-2022|	12/1~12/23|	미세먼지 앱|	코드팩토리|	[Link](https://github.com/kangsudal/dusty)||
-2022|	11/15~11/29|	캘린더 스케쥴러|	코드팩토리|	[Link](https://github.com/kangsudal/calendar_scheduler)||
-2022|	11/14~11/14|	랜덤숫자 생성기|	코드팩토리|	[Link](https://github.com/kangsudal/random_number_generator)|	|
-2022|	10/16~10/19|	쇼핑몰앱|	쉽고 빠른 플러터 앱 개발/권태형|	[Link](https://github.com/kangsudal/flutter_shopping_mall)|	|
-2021|	5/28~6/4|	Drawing App|	TechHover Studio|	[Link](https://github.com/kangsudal/custom_paint)|	|
-2021|	4/4~4/22|	넷플릭스 클론코딩|	인프런/권태뽕|	[Link](https://github.com/kangsudal/kkungflix)|	|
-2021|	1/24~1/29|	Djang DRF + flutter를 이용한 퀴즈앱|	인프런/권태뽕|	[Link](https://github.com/kangsudal/flutter_mobileapp_quiz_test)|	[Link](https://github.com/kangsudal/drf_quiz_test)|
-2020|		|Building Beautiful UIs with Flutter|	Codelabs Series study|	[Link](https://github.com/kangsudal/Adding-Google-Maps)|	|
-2020|		|Chat App|	Tensor Programming|	[Link](https://github.com/kangsudal/chat_app)|	[Link](https://www.youtube.com/watch?v=1bNME5FWWXk)|
-2019|		|Brew Crew|	The Net Ninja|	[Link](https://github.com/kangsudal/brew-crew)|	[Link](https://www.youtube.com/watch?v=Wa0rdbb53I8&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC&index=2)|
+| 2023  | 1/25~  | 코드팩토리 중급 강의  | 코드팩토리  | [Link](https://github.com/kangsudal/actual) | |
+|2022|	12/1~12/23|	미세먼지 앱|	코드팩토리|	[Link](https://github.com/kangsudal/dusty)||
+|2022|	11/15~11/29|	캘린더 스케쥴러|	코드팩토리|	[Link](https://github.com/kangsudal/calendar_scheduler)||
+|2022|	11/14~11/14|	랜덤숫자 생성기|	코드팩토리|	[Link](https://github.com/kangsudal/random_number_generator)|	|
+|2022|	10/16~10/19|	쇼핑몰앱|	쉽고 빠른 플러터 앱 개발/권태형|	[Link](https://github.com/kangsudal/flutter_shopping_mall)|	|
+|2021|	5/28~6/4|	Drawing App|	TechHover Studio|	[Link](https://github.com/kangsudal/custom_paint)|	|
+|2021|	4/4~4/22|	넷플릭스 클론코딩|	인프런/권태뽕|	[Link](https://github.com/kangsudal/kkungflix)|	|
+|2021|	1/24~1/29|	Djang DRF + flutter를 이용한 퀴즈앱|	인프런/권태뽕|	[Link](https://github.com/kangsudal/flutter_mobileapp_quiz_test)|	[Link](https://github.com/kangsudal/drf_quiz_test)|
+|2020|		|Building Beautiful UIs with Flutter|	Codelabs Series study|	[Link](https://github.com/kangsudal/Adding-Google-Maps)|	|
+|2020|		|Chat App|	Tensor Programming|	[Link](https://github.com/kangsudal/chat_app)|	[Link](https://www.youtube.com/watch?v=1bNME5FWWXk)|
+|2019|		|Brew Crew|	The Net Ninja|	[Link](https://github.com/kangsudal/brew-crew)|	[Link](https://www.youtube.com/watch?v=Wa0rdbb53I8&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC&index=2)|
 
