@@ -15,6 +15,7 @@
 
 | Year  | Day | Name  | Repository | Video Link  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023  | 4/13~4/17  | Kangsudal-mini  | [Link](https://github.com/kangsudal/kangsudal-mini)  | [Link](https://kangsudal-mini.firebaseapp.com/)  |
 | 2022  | 12/28~1/16  | My Showroom  | [Link](https://github.com/kangsudal/my_showroom)  | [Link](https://kangsudal.github.io)  |
 | 2022  | 11/8~11/23  | 커플 D-day & 전자액자  | [Link](https://github.com/kangsudal/u_and_i)  |   |
 | 2022  | 9/30~10/8  | 밀리의 서재 UI 클론  | [Link](https://github.com/kangsudal/millie)  | [Link](https://kangsudal.tistory.com/entry/%EB%B0%80%EB%A6%AC%EC%9D%98-%EC%84%9C%EC%9E%AC-UI-%ED%81%B4%EB%A1%A0)  |
