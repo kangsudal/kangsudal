@@ -21,6 +21,7 @@
 | 2022  | 9/2~9/8  | OpenWeatherMap을 이용한 날씨앱 | [Link](https://github.com/kangsudal/my_openweather_map) | [Link](https://kangsudal.tistory.com/entry/%EB%82%A0%EC%94%A8%EC%95%B1) |
 | 2022  | 8/20~8/27 | Performance Tracker | [Link](https://github.com/kangsudal/performance_tracker)|[Link](https://kangsudal.tistory.com/entry/Performance-Tracker) | 
 | 2022  | 7/21~8/20  | neumorphic 스타일의 계산기& 환율계산기 | [Link](https://github.com/kangsudal/calculator_neumorphic) | [Link](https://kangsudal.tistory.com/entry/%EA%B3%84%EC%82%B0%EA%B8%B0%ED%99%98%EC%9C%A8%EA%B3%84%EC%82%B0%EA%B8%B0)|
+| 2022  | Feb  | W-Mister(Wix 사용)  |  | [Link](https://www.w-meister.com/)  |
 | 2021  | July ~  | 한끼잇고 | [Link](https://kangsudal.tistory.com/entry/%ED%95%9C%EB%81%BC%EC%9E%87%EA%B3%A0) | [Link](https://medium.com/@kangsudal/%EA%B3%84%EC%86%8D-%EB%B2%84%EB%A0%A4%EC%A0%B8%EC%95%BC%ED%95%A0%EA%B9%8C-d0c9cf1e7639) |
 | 2021  | 2/5~9/17 | 롤 챔피언 지도 |[Link](https://github.com/kangsudal/lol-dart)||
 
