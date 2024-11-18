@@ -5,7 +5,11 @@
 
 |    | Name | Store  | Repo | Framework  | Local |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [<img src="https://github.com/user-attachments/assets/1c1619e5-00bc-47b1-91a7-7b75e6042cfa" width="80" height="80"/>](https://apps.apple.com/kr/app/%ED%95%9C%EB%81%BC%EC%9E%87%EA%B3%A02/id6473613631) | 한끼잇고2 | 출시 예정 | [Link](https://github.com/kangsudal/Eat-Go) | Flutter  | KR |
+| [<img src="https://github.com/user-attachments/assets/99711817-d4d2-42fd-932a-25fa96945fa2" width="80" height="80"/>](https://apps.apple.com/kr/app/%ED%95%9C%EB%81%BC%EC%9E%87%EA%B3%A02/id6473613631) | 한끼잇고2 | [AppStore](https://apps.apple.com/kr/app/%ED%95%9C%EB%81%BC%EC%9E%87%EA%B3%A02/id6473613631)/[Play Store](https://play.google.com/store/apps/details?id=com.kangsudal.whateatgo2&hl=ko) | [Link](https://github.com/kangsudal/whateatgo2) | Flutter  | KR |
 | [<img src="https://user-images.githubusercontent.com/32862869/203456482-55635bf5-43d6-4d7b-b22e-3f35bbb0d46c.png" width="80" height="80"/>](https://play.google.com/store/apps/details?id=com.kangsudal.whateatgo)  | 한끼잇고-랜덤레시피추천앱  | [Link](https://play.google.com/store/apps/details?id=com.kangsudal.whateatgo)  |  [Link](https://github.com/kangsudal/whats_for_dinner) | Flutter  | KR  |
+
+---
 
 
 
@@ -15,6 +19,7 @@
 
 | Year  | Day | Name  | Repository | Video Link  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023  | 8/9~  | Eat-Go!  | [Link](https://github.com/kangsudal/Eat-Go)  | [Link](https://www.youtube.com/shorts/J6zWyVfZNvc) |
 | 2023  | 4/13~4/17  | Kangsudal-mini  | [Link](https://github.com/kangsudal/kangsudal-mini)  | [Link](https://kangsudal-mini.firebaseapp.com/)  |
 | 2022  | 12/28~1/16  | My Showroom  | [Link](https://github.com/kangsudal/my_showroom)  | [Link](https://kangsudal.github.io)  |
 | 2022  | 11/8~11/23  | 커플 D-day & 전자액자  | [Link](https://github.com/kangsudal/u_and_i)  |   |
@@ -43,3 +48,6 @@
 |2020|		|Chat App|	Tensor Programming|	[Link](https://github.com/kangsudal/chat_app)|	[Link](https://www.youtube.com/watch?v=1bNME5FWWXk)|
 |2019|		|Brew Crew|	The Net Ninja|	[Link](https://github.com/kangsudal/brew-crew)|	[Link](https://www.youtube.com/watch?v=Wa0rdbb53I8&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC&index=2)|
 
+## 📫 Contact Me
+- **Medium**: [Medium Articles](https://medium.com/@kangsudal)
+- **Email**: [kangsudal@gmail.com](kangsudal@gmail.com)
